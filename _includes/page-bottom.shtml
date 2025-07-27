@@ -6,7 +6,7 @@
 <!-- MODIFICATION DATE START -->
 
 <p>Last modified: {{ page.last_modified | date: "%B %d, %Y" }}</p>
-<p class="Copyright">Copyright &copy; 2002-2022 Alex Burger</p>
+<p class="Copyright">Copyright &copy; 2002-2025 Alex Burger</p>
 
 <!-- MODIFICATION DATE END -->
 
