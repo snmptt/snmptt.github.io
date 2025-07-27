@@ -1,6 +1,6 @@
 ---
 layout: null
-last_modified: 2008-05-09
+last_modified: 2025-07-26
 ---
 
 {% include page-top.shtml %}
@@ -35,7 +35,7 @@ Reporting Bugs
 </p>
 
 <p>
-Bugs should be reported using the <a target="github-issues" href="https://github.com/snmptt/snmptt/issues">GitHub Issues</a>.
+Bugs should be reported using <a target="github-issues" href="https://github.com/snmptt/snmptt/issues">GitHub Issues</a>.
 </p>
 <p></p>
 
