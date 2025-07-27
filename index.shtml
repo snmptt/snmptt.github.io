@@ -1,4 +1,5 @@
-<!--#include virtual="page-top.html" -->
+{% include page-top.html %}
+
 <!-- CONTENT START -->
 
 <p>SNMPTT (SNMP Trap Translator) is an SNMP trap handler written in Perl for use with the Net-SNMP / UCD-SNMP snmptrapd program (<a target="net-snmp" href="http://www.net-snmp.org">www.net-snmp.org</a>).</p>
@@ -248,5 +249,5 @@ News
 </table>
 	  
 <!-- CONTENT END -->
-<!--#include virtual="page-bottom.shtml" -->
+{% include page-bottom.html %}
 
