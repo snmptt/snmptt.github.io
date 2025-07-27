@@ -13,7 +13,7 @@ Support
 <p>
 The following can be used to obtain support for SNMPTT.  If you email me direct with a question, I will try to answer it but I would prefer it if the following are tried first.
 </p>
-<p><b><u>To protect yourself when posting snmptt.debug logs, modify all ip addresses and all SNMP community names before posting</u></b></p>
+<p><i><b>To protect yourself when posting snmptt.debug logs, modify all ip addresses and all SNMP community names before posting</b></i></p>
 
 <ul>
   <li><a target="github-issues" href="https://github.com/snmptt/snmptt/issues">GitHub Issues</a></li>
