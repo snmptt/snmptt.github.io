@@ -5,7 +5,7 @@
 
 <!-- MODIFICATION DATE START -->
 
-<p>Last modified: <!--#echo var="LAST_MODIFIED" --></p>
+<p>Last modified: {{ page.last_modified | date: "%B %d, %Y" }}</p>
 <p class="Copyright">Copyright &copy; 2002-2022 Alex Burger</p>
 
 <!-- MODIFICATION DATE END -->
