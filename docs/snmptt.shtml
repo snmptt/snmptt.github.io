@@ -1,4 +1,8 @@
-<!--#include virtual="/page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
     <h1>SNMP Trap Translator v1.5</h1>
@@ -3036,5 +3040,5 @@
     <p>Information on handling SNMP traps with <a href="https://xymon.sourceforge.io/">Xymon</a> (formerly <a href="http://hobbitmon.sourceforge.net/">Hobbit</a>) can be found at <a href="http://cerebro.victoriacollege.edu/hobbit-trap.html">http://cerebro.victoriacollege.edu/hobbit-trap.html</a>.</p>
 
 <!-- CONTENT END -->
-<!--#include virtual="/page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 

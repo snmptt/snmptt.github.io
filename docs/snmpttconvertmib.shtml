@@ -1,4 +1,8 @@
-<!--#include virtual="/page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <h1>SNMP Trap Translator Convert MIB v1.5</h1>
@@ -158,5 +162,5 @@ done
 </ul>
 
 <!-- CONTENT END -->
-<!--#include virtual="/page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 

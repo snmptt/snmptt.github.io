@@ -1,4 +1,8 @@
-<!--#include virtual="/page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <title>SNMP Trap Translator</title>
@@ -59,5 +63,5 @@
     editing the SNMPTTCONVERT script.</p>
 
 <!-- CONTENT END -->
-<!--#include virtual="/page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 

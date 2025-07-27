@@ -1,4 +1,8 @@
-<!--#include virtual="/page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <title>SNMP Trap Translator v1.4.1</title>
@@ -626,6 +630,6 @@ entries, run <b>snmptt --dump</b></li>
 </ul>
 
 <!-- CONTENT END -->
-<!--#include virtual="/page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 
 
