@@ -253,5 +253,5 @@ News
 </table>
 	  
 <!-- CONTENT END -->
-{% include page-bottom.html %}
+{% include page-bottom.shtml %}
 
