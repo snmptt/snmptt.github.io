@@ -1,4 +1,8 @@
-<!--#include virtual="page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <p class="SectionTitle">
@@ -46,5 +50,5 @@ The following is a list of SNMPTT users that have permitted me to list them on t
   </table>
 
 <!-- CONTENT END -->
-<!--#include virtual="page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 

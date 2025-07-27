@@ -1,4 +1,8 @@
-<!--#include virtual="page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 <html>
   <head>
@@ -639,6 +643,6 @@
       <li>Initial release</li>
     </ul>
     <!-- CONTENT END -->
-    <!--#include virtual="page-bottom.shtml" -->
+    {% include page-bottom.shtml %}
   </body>
 </html>

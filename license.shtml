@@ -1,4 +1,8 @@
-<!--#include virtual="page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <p class="SectionTitle">
@@ -15,5 +19,5 @@ alex_b@users.sourceforge.net<br />
 <p>You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA</p>
 
 <!-- CONTENT END -->
-<!--#include virtual="page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 

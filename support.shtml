@@ -1,4 +1,8 @@
-<!--#include virtual="page-top.html" -->
+---
+layout: null
+---
+
+{% include page-top.shtml %}
 <!-- CONTENT START -->
 
 <p class="SectionTitle">
@@ -34,5 +38,5 @@ Patches should be submitted using the <a target="sf-patches" href="http://source
 </p>
 
 <!-- CONTENT END -->
-<!--#include virtual="page-bottom.shtml" -->
+{% include page-bottom.shtml %}
 
